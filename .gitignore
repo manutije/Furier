@@ -2,3 +2,4 @@ signals
 clean.wav
 mysinewave.wav
 mixed
+__pycache__
